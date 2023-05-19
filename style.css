@@ -1,4 +1,4 @@
-.titulo{
+body{
     background-color: #4D713A;
 }
 
@@ -14,3 +14,16 @@
     width: 10%;
 
 }
+
+.titulo{font-size: 250%;
+
+}
+ .bu{font-size: 230%;}
+.no{font-size: 220%;}
+.ny{font-size: 220%;}
+.np{font-size: 220%;}
+.cn{font-size: 230%;}
+.bb{font-size: 230%;}
+.pp{font-size: 230%;}
+.pl{font-size: 230%;}
+
