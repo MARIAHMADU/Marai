@@ -1,5 +1,6 @@
 body{
     background-color: #4D713A;
+    margin: 0px 400px 0px 400px;
 }
 
 .img{
@@ -18,12 +19,30 @@ body{
 .titulo{font-size: 250%;
 
 }
- .bu{font-size: 230%;}
-.no{font-size: 220%;}
-.ny{font-size: 220%;}
-.np{font-size: 220%;}
-.cn{font-size: 230%;}
-.bb{font-size: 230%;}
-.pp{font-size: 230%;}
-.pl{font-size: 230%;}
-
+ .bu{font-size: 300%;}
+.no{font-size: 240%;}
+.ny{font-size: 240%;}
+.np{font-size: 240%;}
+.cn{font-size: 300%;}
+.bb{font-size: 300%;}
+.pp{font-size: 300%;}
+.pl{font-size: 300%;}
+.kk{font-size: 220%;}
+.ii{font-size: 220%;}
+.fcc{font-size: 180%;}
+.tt{font-size: 180%;}
+.cc{font-size: 180%;}
+.ag{font-size: 180%;}
+.sa{font-size: 180%;}
+.cqf{font-size: 180%;}
+.ce{font-size: 180%;}
+.cqf{font-size: 180%;}
+.cqf{font-size: 180%;}
+.fe{font-size: 180%;}
+.mis{font-size: 180%;}
+.md{font-size: 180%;}
+.ml{font-size: 180%;}
+.hh{font-size: 180%;}
+.yy{font-size: 180%;}
+.oo{font-size: 180%;}
+.ck{font-size: 300%;}
